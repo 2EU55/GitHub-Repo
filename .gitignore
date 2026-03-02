@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+.Python
+*.pyd
+
+.streamlit/
+.trae/
+
+analyst.db
+
+.env
+.env.*
