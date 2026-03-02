@@ -11,3 +11,4 @@ analyst.db
 
 .env
 .env.*
+!.env.example
